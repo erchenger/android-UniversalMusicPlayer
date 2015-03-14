@@ -57,4 +57,5 @@ dependencies {
 
     compile (name:'CastCompanionLibrary-debug', ext:'aar')
     compile 'com.github.amlcurran.showcaseview:library:5.0.0'
+    testCompile 'junit:junit:4.+'
 }
